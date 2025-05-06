@@ -13,7 +13,7 @@
   Developed a posture feedback system using deep learning to guide users during exercises.
 
 - 🧠 **Alzheimer’s Disease Prediction**  
-  Implemented machine learning techniques to classify MRI data and predict early stages of Alzheimer’s.
+  Implemented machine learning techniques to predict early stages of Alzheimer’s.
 
 ---
 
