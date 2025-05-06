@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Yasmeen Khaled
+#  Hi, I'm Yasmeen Khaled
 
-🎓 Computer Science Student | 💻 Aspiring Software Engineer  
-🚀 Passionate about AI, Machine Learning, and Full-Stack Development
+ Computer Science Senior Student |  Aspiring Software Engineer  
+ Passionate about AI, Machine Learning, and Full-Stack Development
 
 ---
 
-## 🧠 AI & Deep Learning Projects
+##  AI & Deep Learning Projects
 - 🔤 **Sign Language Recognition**  
   Built a real-time system to recognize sign language gestures using deep learning and computer vision.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 💼 Software Development Projects
+##  Software Development Projects
 - ✈️ **Travel Management System** — *using .NET Framework*  
   A desktop-based system for booking, managing, and tracking travel reservations and client data.
 
